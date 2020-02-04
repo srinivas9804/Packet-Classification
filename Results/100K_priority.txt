@@ -1,0 +1,35 @@
+acl1_100k
+max_priority = 7
+
+acl2_100k
+max_priority = 9
+
+acl3_100k
+max_priority = 6
+
+acl4_100k
+max_priority = 8
+
+acl5_100k
+max_priority = 3
+
+fw1_100k
+max_priority = 9
+
+fw2_100k
+max_priority = 5
+
+fw3_100k
+max_priority = 10
+
+fw4_100k
+max_priority = 7
+
+fw5_100k
+max_priority = 10
+
+ipc1_100k
+max_priority =
+
+ipc2_100k
+max_priority =

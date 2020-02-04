@@ -1,0 +1,141 @@
+10Kacl1_norm
+No. of rules = 10133
+sizeSA = 2122, sizeDA = 595
+sizeSP = 1, sizeDP = 108
+sizePT = 3
+
+codeLenSA = 13, codeLenDA = 12
+codeLenSP = 0, codeLenDP = 9, codeLenPT = 2
+encodedRuleLen = 36
+
+----------------------------------------------
+
+10Kacl2_norm
+No. of rules = 10507
+sizeSA = 247, sizeDA = 759
+sizeSP = 1, sizeDP = 27
+sizePT = 4
+
+codeLenSA = 11, codeLenDA = 13
+codeLenSP = 0, codeLenDP = 6, codeLenPT = 3
+encodedRuleLen = 33
+
+----------------------------------------------
+
+10Kacl3_norm
+No. of rules = 9536
+sizeSA = 635, sizeDA = 280
+sizeSP = 3, sizeDP = 188
+sizePT = 4
+
+codeLenSA = 13, codeLenDA = 10
+codeLenSP = 2, codeLenDP = 9, codeLenPT = 3
+encodedRuleLen = 37
+
+----------------------------------------------
+
+10Kacl4_norm
+No. of rules = 9641
+sizeSA = 609, sizeDA = 979
+sizeSP = 3, sizeDP = 234
+sizePT = 6
+
+codeLenSA = 13, codeLenDA = 13
+codeLenSP = 2, codeLenDP = 9, codeLenPT = 3
+encodedRuleLen = 40
+
+----------------------------------------------
+
+10Kacl5_norm
+No. of rules = 10864
+sizeSA = 656, sizeDA = 1631
+sizeSP = 1, sizeDP = 40
+sizePT = 4
+
+codeLenSA = 11, codeLenDA = 12
+codeLenSP = 0, codeLenDP = 6, codeLenPT = 3
+encodedRuleLen = 32
+
+----------------------------------------------
+
+10Kfw1_norm
+No. of rules = 9781
+sizeSA = 2056, sizeDA = 7360
+sizeSP = 13, sizeDP = 43
+sizePT = 4
+
+codeLenSA = 13, codeLenDA = 15
+codeLenSP = 4, codeLenDP = 6, codeLenPT = 3
+encodedRuleLen = 41
+
+----------------------------------------------
+
+10Kfw2_norm
+No. of rules = 9659
+sizeSA = 6587, sizeDA = 3512
+sizeSP = 9, sizeDP = 1
+sizePT = 4
+
+codeLenSA = 14, codeLenDA = 13
+codeLenSP = 4, codeLenDP = 0, codeLenPT = 3
+encodedRuleLen = 34
+
+----------------------------------------------
+
+10Kfw3_norm
+No. of rules = 10192
+sizeSA = 152, sizeDA = 8063
+sizeSP = 9, sizeDP = 39
+sizePT = 3
+
+codeLenSA = 9, codeLenDA = 14
+codeLenSP = 4, codeLenDP = 6, codeLenPT = 2
+encodedRuleLen = 35
+
+----------------------------------------------
+
+10Kfw4_norm
+No. of rules = 9551
+sizeSA = 4056, sizeDA = 7238
+sizeSP = 28, sizeDP = 49
+sizePT = 8
+
+codeLenSA = 13, codeLenDA = 15
+codeLenSP = 6, codeLenDP = 7, codeLenPT = 4
+encodedRuleLen = 45
+
+----------------------------------------------
+
+10Kfw5_norm
+No. of rules = 10085
+sizeSA = 2157, sizeDA = 6458
+sizeSP = 11, sizeDP = 33
+sizePT = 3
+
+codeLenSA = 14, codeLenDA = 15
+codeLenSP = 4, codeLenDP = 6, codeLenPT = 2
+encodedRuleLen = 41
+
+----------------------------------------------
+
+10Kipc1_norm
+No. of rules = 10260
+sizeSA = 135, sizeDA = 541
+sizeSP = 34, sizeDP = 54
+sizePT = 6
+
+codeLenSA = 9, codeLenDA = 12
+codeLenSP = 6, codeLenDP = 7, codeLenPT = 3
+encodedRuleLen = 37
+
+----------------------------------------------
+
+10Kipc2_norm
+No. of rules = 10001
+sizeSA = 4701, sizeDA = 8963
+sizeSP = 3, sizeDP = 3
+sizePT = 3
+
+codeLenSA = 14, codeLenDA = 14
+codeLenSP = 2, codeLenDP = 2, codeLenPT = 2
+encodedRuleLen = 34

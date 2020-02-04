@@ -1,0 +1,348 @@
+10Kacl1_norm
+No. of rules = 10133
+No. of distinct rules = 9856
+No. of shadowed rules with PT = *, 182
+No. of rules handled by the special block = 
+
+sizeSA = 2122, sizeDA = 601
+sizeSP = 1, sizeDP = 108
+sizePT = 3
+
+codeLenSA = 13, codeLenDA = 12
+codeLenSP = 0, codeLenDP = 9, codeLenPT = 2
+encodedRuleLen = 36
+
+	int allocVec[8][4] = {	
+				{0, 10, 0, 0},  // SA, DA, SP, DP
+				{10, 0, 0, 0},
+				{10, 0, 0, 0},
+				{6, 4, 0, 0},
+				{6, 2, 0, 2},
+				{4, 3, 0, 3},
+				{0, 0, 0, 0},
+				{0, 0, 0, 0} 
+			     }; 
+No. of static blocks = 6
+No. of dynamic blocks = 4
+
+----------------------------------------------
+
+10Kacl2_norm
+No. of rules = 10507
+No. of distinct rules = 10414
+No. of shadowed rules with PT = *, 723
+No. of rules handled by the special block = 39
+
+sizeSA = 247, sizeDA = 765
+sizeSP = 1, sizeDP = 27
+sizePT = 4
+
+codeLenSA = 11, codeLenDA = 12
+codeLenSP = 0, codeLenDP = 6, codeLenPT = 3
+encodedRuleLen = 32
+
+	int allocVec[8][4] = {	{0, 10, 0, 0},
+				{5, 5, 0, 0},
+				{5, 5, 0, 0},
+				{4, 6, 0, 0},
+				{4, 6, 0, 0},
+				{4, 6, 0, 2},
+				{3, 5, 0, 2},
+				{6, 0, 0, 4},
+				}; 
+No. of static blocks = 7
+No. of dynamic blocks = 5
+
+----------------------------------------------
+
+10Kacl3_norm
+No. of rules = 9536
+No. of distinct rules = 9533
+No. of shadowed rules with PT = *, 48
+No. of rules handled by the special block = 9
+
+sizeSA = 635, sizeDA = 283
+sizeSP = 3, sizeDP = 188
+sizePT = 4
+
+codeLenSA = 13, codeLenDA = 10 
+codeLenSP = 2, codeLenDP = 9, codeLenPT = 3 
+encodedRuleLen = 37
+x
+	int allocVec[9][4] = {	{10, 0, 0, 0},
+				{5, 5, 0, 0},
+				{6, 4, 0, 0},
+				{6, 4, 0, 0},
+				{6, 0, 0, 4},
+				{0, 6, 0, 4},
+				{5, 3, 0, 2},
+				{4, 3, 0, 3},
+				{4, 3, 0, 3},
+			}; 
+No. of static blocks = 9
+No. of dynamic blocks = 6
+----------------------------------------------
+
+10Kacl4_norm
+No. of rules = 9641
+No. of distinct rules = 9640
+No. of shadowed rules with PT = *, 41
+No. of rules handled by the special block = 6
+
+sizeSA = 609, sizeDA = 979
+sizeSP = 3, sizeDP = 234
+sizePT = 6
+
+codeLenSA = 13, codeLenDA = 13
+codeLenSP = 2, codeLenDP = 9, codeLenPT = 3
+encodedRuleLen = 40
+
+	int allocVec[9][4] = {	
+				{0, 10, 0, 0},
+				{5, 5, 0, 0},
+				{5, 5, 0, 0},
+				{4, 6, 0, 0},
+				{0, 6, 0, 4},
+				{6, 0, 0, 4},
+				{3, 4, 0, 3},
+				{0, 0, 0, 0},
+				{0, 0, 0, 0},
+			     }; 
+No. of static blocks = 7
+No. of dynamic blocks = 5
+----------------------------------------------
+
+10Kacl5_norm
+No. of rules = 10864
+No. of distinct rules = 10840
+No. of shadowed rules with PT = *, 0
+No. of rules handled by the special block = 1
+
+sizeSA = 656, sizeDA = 1761
+sizeSP = 1, sizeDP = 40
+sizePT = 4
+
+codeLenSA = 11, codeLenDA = 12
+codeLenSP = 0, codeLenDP = 6, codeLenPT = 3
+encodedRuleLen = 32
+
+	int allocVec[9][4] = {	
+				{10, 0, 0, 0},
+				{8, 0, 0, 2},
+				{0, 10, 0, 0},
+				{0, 8, 0, 2},
+				{4, 6, 0, 0},
+				{4, 6, 0, 0},
+				{3, 5, 0, 2},
+				{3, 5, 0, 2},
+				{0, 0, 0, 0}
+			     }; 
+No. of static blocks = 8
+No. of dynamic blocks = 5
+----------------------------------------------
+
+10Kfw1_norm
+No. of rules = 9781
+No. of distinct rules = 9731
+No. of shadowed rules with PT = *, 30
+No. of rules handled by the special block = 40
+
+sizeSA = 2056, sizeDA = 7360
+sizeSP = 13, sizeDP = 43
+sizePT = 4
+
+codeLenSA = 13, codeLenDA = 15
+codeLenSP = 4, codeLenDP = 6, codeLenPT = 3
+encodedRuleLen = 41
+
+	int allocVec[9][4] = {	
+				{10, 0, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}, 
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}
+			     }; 
+No. of static blocks = 5
+No. of dynamic blocks = 7
+----------------------------------------------
+
+10Kfw2_norm
+No. of rules = 9659
+No. of distinct rules = 9659
+No. of shadowed rules with PT = *, 63
+No. of rules handled by the special block = 15
+
+sizeSA = 6587, sizeDA = 3512
+sizeSP = 9, sizeDP = 1
+sizePT = 4
+
+codeLenSA = 14, codeLenDA = 13
+codeLenSP = 4, codeLenDP = 0, codeLenPT = 3
+encodedRuleLen = 34
+
+	int allocVec[9][4] = {	
+				{10, 0, 0, 0},
+				{10, 0, 0, 0},
+				{10, 0, 0, 0},
+				{10, 0, 0, 0},
+				{0, 10, 0, 0},
+				{6, 4, 0, 0},
+				{0, 0, 0, 0}, 
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}
+			     }; 
+
+No. of static blocks = 6
+No. of dynamic blocks = 2
+----------------------------------------------
+
+10Kfw3_norm
+No. of rules = 10192
+No. of distinct rules = 9978
+No. of shadowed rules with PT = *, 96
+No. of rules handled by the special block = 35
+
+sizeSA = 152, sizeDA = 8063
+sizeSP = 9, sizeDP = 39 
+sizePT = 3
+
+codeLenSA = 9, codeLenDA = 14
+codeLenSP = 4, codeLenDP = 6, codeLenPT = 2
+encodedRuleLen = 35
+
+	int allocVec[9][4] = {	
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 0, 0, 0},
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}, 
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}
+			     }; 
+
+No. of static blocks = 4
+No. of dynamic blocks = 7
+----------------------------------------------
+
+10Kfw4_norm
+No. of rules = 9551
+No. of distinct rules = 9551
+No. of shadowed rules with PT = *, 19
+No. of rules handled by the special block = 29
+
+sizeSA = 4056, sizeDA = 7238
+sizeSP = 28, sizeDP = 49
+sizePT = 8
+
+codeLenSA = 13, codeLenDA = 15
+codeLenSP = 6, codeLenDP = 7, codeLenPT = 4
+encodedRuleLen = 45
+
+
+	int allocVec[9][4] = {	
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{10, 0, 0, 0},
+				{10, 0, 0, 0},
+				{0, 0, 0, 0}, 
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}
+			     }; 
+No. of static blocks = 6
+No. of dynamic blocks = 7
+----------------------------------------------
+
+10Kfw5_norm
+No. of rules = 10085
+No. of distinct rules = 9923
+No. of shadowed rules with PT = *, 59
+No. of rules handled by the special block = 59
+
+sizeSA = 2157, sizeDA = 6458
+sizeSP = 11, sizeDP = 33
+sizePT = 3
+
+codeLenSA = 14, codeLenDA = 15
+codeLenSP = 4, codeLenDP = 6, codeLenPT = 2
+encodedRuleLen = 41
+
+	int allocVec[9][4] = {	
+				{0, 10, 0, 0},
+				{10, 0, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{10, 0, 0, 0},
+				{0, 0, 0, 0}, 
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}
+			     }; 
+No. of static blocks = 6
+No. of dynamic blocks = 6
+----------------------------------------------
+
+10Kipc1_norm
+No. of rules = 10260
+No. of distinct rules = 10170
+No. of shadowed rules with PT = *, 285
+No. of rules handled by the special block = 15
+
+sizeSA = 135, sizeDA = 543
+sizeSP = 34, sizeDP = 54
+sizePT = 6
+
+codeLenSA = 9, codeLenDA = 12
+codeLenSP = 6, codeLenDP = 7, codeLenPT = 3
+encodedRuleLen = 37
+
+	int allocVec[9][4] = {	
+				{0, 10, 0, 0},
+				{8, 2, 0, 0},
+				{4, 6, 0, 0},
+				{4, 6, 0, 0},
+				{5, 5, 0, 0},
+				{0, 6, 0, 4},
+				{3, 5, 0, 2}, 
+				{0, 6, 0, 4},
+				{0, 0, 0, 0}
+			     }; 
+
+No. of static blocks = 8
+No. of dynamic blocks = 6
+----------------------------------------------
+
+10Kipc2_norm
+No. of rules = 10001
+No. of distinct rules = 10001
+No. of shadowed rules with PT = *, 0
+No. of rules handled by the special block = 1
+
+sizeSA = 4701, sizeDA = 8963
+sizeSP = 3, sizeDP = 3
+sizePT = 3
+
+codeLenSA = 14, codeLenDA = 14
+codeLenSP = 2, codeLenDP = 2, codeLenPT = 2
+encodedRuleLen = 34
+
+	int allocVec[9][4] = {	
+				{0, 10, 0, 0},
+				{10, 0, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{0, 10, 0, 0},
+				{10, 0, 0, 0},
+				{0, 0, 0, 0}, 
+				{0, 0, 0, 0},
+				{0, 0, 0, 0}
+			     }; 
+No. of static blocks = 6
+No. of dynamic blocks = 1

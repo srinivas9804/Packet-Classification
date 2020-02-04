@@ -1,0 +1,34 @@
+﻿  SeptVersion.cpp
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(333): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(334): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(358): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(359): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(371): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(404): warning C4018: '<': signed/unsigned mismatch
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(419): warning C4018: '<': signed/unsigned mismatch
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(452): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(485): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(508): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(903): warning C4018: '>=': signed/unsigned mismatch
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(906): warning C4018: '>=': signed/unsigned mismatch
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(936): warning C4018: '>=': signed/unsigned mismatch
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(939): warning C4018: '>=': signed/unsigned mismatch
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1370): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1376): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1382): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1387): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1390): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1402): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\srini\desktop\dp ra\pic\septversion.cpp(1402): note: consider using '%zd' in the format string
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1707): warning C4244: '=': conversion from 'unsigned __int64' to 'double', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1739): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1752): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1768): warning C4244: 'initializing': conversion from 'double' to '::size_t', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1772): warning C4244: 'initializing': conversion from 'double' to '::size_t', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1968): warning C4244: 'initializing': conversion from 'double' to '::size_t', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(1985): warning C4244: 'initializing': conversion from 'double' to '::size_t', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(2032): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(2047): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\srini\desktop\dp ra\pic\septversion.cpp(2066): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+  c:\users\srini\desktop\dp ra\pic\septversion.cpp(2066): note: consider using '%zd' in the format string
+  PIC.vcxproj -> C:\Users\srini\Desktop\DP RA\PIC\x64\Debug\PIC.exe

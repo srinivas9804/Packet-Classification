@@ -1,0 +1,41 @@
+Expected outputs for each ruleset:
+
+A list of distinct rules after the removal of duplication
+- rule ID (start the numbering from 1, smaller rule ID = higher priority)
+- original values of the 5 fields 
+
+PIC Encoding results
+- number of distinct prefixes/ranges/values of the 5 fields
+- lengths of the PIC codes of the 5 fields
+- overall length of the encoded rule
+- PIC tables for the 5 fields
+   ~ original value : PIC codeword
+
+A list of encoded rules and mapping results
+- rule ID 
+- encoded rule (data-vector and mask-vector, printed in hex digits format)
+- priority code
+- mapping result of each rule
+   ~ match unit ID = 0 (if SA/DA code <= 6 bits, SP and DP = *)
+   ~ regular match unit ID (ID > 0), location, offset (left or right entry) 
+
+Contents of Regular match units
+- No. of regular match units
+
+- contents of the match unit 
+- match unit ID
+- type (1-level bit-selection or 2-level bit-selection)
+- selected bits
+   ~ 1-level bit-selection : 1 bit-vector (right aligned) to represent the selected bits (printed in hex digits)
+   ~ 2-level bit-selection : 1 bit-vector (or indexes of the 2 selected bits) for the level-1
+                                        4 bit-vectors for the 4 partitions (level-2)
+- number of rules mapped to the match unit
+- Table showing the contents of the memory array:
+   ~ address : entry 1, entry 2 (An entry may contain 1 rule, a pair of rules, or is empty.)
+                      Show an entry in the form {r1}, or {r1, r2}, or {empty}
+
+File names convention:
+acl1_distinct_rules.txt
+acl1_PIC_tables.txt
+acl1_encoded_rules.txt
+acl1_match_units.txt

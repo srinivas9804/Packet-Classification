@@ -1,0 +1,339 @@
+10Kacl1_norm
+number_of_rules = 10133,
+sizeSA = 2122, sizeDA = 601, 
+sizeSP = 1, sizeDP = 108,
+sizePT = 4
+distinct_rules = 9856
+max_priority = 7
+
+total codelenSA = 13    total codelenDA = 12
+total codelenSP = 0     total codelenDP = 9
+total codelenPT = 2
+encodedruleLen = 36
+
+No. of shadowed rules with PT = *, 183
+No. of rules handled by the special block = 12
+Number of static blocks = 8
+Number of rules left = 768
+
+10,0,0,0        1712	//SA,DA,SP,DP number of rules
+10,0,0,0        1091
+10,0,0,0        858
+5,5,0,0 	1473
+5,5,0,0 	891
+0,5,0,5 	775
+5,0,0,5 	1296
+6,0,0,4 	797
+
+Number of dynamic blocks = 3
+-----------------------------------------
+
+10Kacl2_norm
+number_of_rules = 10507,
+sizeSA = 247, sizeDA = 765, 
+sizeSP = 1, sizeDP = 27,
+sizePT = 5
+distinct_rules = 10414
+max_priority = 8
+
+total codelenSA = 11    total codelenDA = 12
+total codelenSP = 0     total codelenDP = 6
+total codelenPT = 3
+encodedruleLen = 32
+
+No. of shadowed rules with PT = *, 733
+No. of rules handled by the special block = 145
+Number of static blocks = 7
+Number of rules left = 1881
+
+0,10,0,0        748
+5,5,0,0 1652
+5,5,0,0 1353
+5,5,0,0 1135
+5,5,0,0 939
+4,6,0,0 1068
+6,0,0,4 760
+
+Number of dynamic blocks = 7
+-------------------------------------------
+
+10Kacl3_norm
+number_of_rules = 9536,
+sizeSA = 635, sizeDA = 283, 
+sizeSP = 3, sizeDP = 188,
+sizePT = 5
+max_priority = 9
+
+total codelenSA = 13    total codelenDA = 10
+total codelenSP = 2     total codelenDP = 9
+total codelenPT = 3
+encodedruleLen = 37
+distinct_rules = 9533
+
+No. of shadowed rules with PT = *, 49
+No. of rules handled by the special block = 24
+Number of static blocks = 9
+Number of rules left = 922
+
+10,0,0,0        893
+5,5,0,0 1370
+5,5,0,0 923
+0,5,0,5 940
+5,0,0,5 1360
+6,4,0,0 776
+6,0,0,4 763
+4,0,0,6 758
+3,3,0,4 755
+
+Number of dynamic blocks = 6
+-------------------------------------------
+
+10Kacl4_norm
+number_of_rules = 9651,
+sizeSA = 609, sizeDA = 994, 
+sizeSP = 3, sizeDP = 234,
+sizePT = 7
+max_priority = 6
+
+total codelenSA = 13    total codelenDA = 13
+total codelenSP = 2     total codelenDP = 9
+total codelenPT = 3
+encodedruleLen = 40
+distinct_rules = 9650
+
+No. of shadowed rules with PT = *, 41
+No. of rules handled by the special block = 21
+Number of static blocks = 8
+Number of rules left = 1320
+
+0,10,0,0        1015
+5,5,0,0 1546
+5,5,0,0 1065
+5,0,0,5 1185
+0,5,0,5 1028
+4,6,0,0 915
+0,4,0,6 721
+3,4,0,3 793
+
+Number of dynamic blocks = 6
+-------------------------------------------
+
+10Kacl5_norm
+number_of_rules = 10864,
+sizeSA = 656, sizeDA = 1761, 
+sizeSP = 1, sizeDP = 40,
+sizePT = 5
+max_priority = 3
+
+total codelenSA = 11    total codelenDA = 12
+total codelenSP = 0     total codelenDP = 6
+total codelenPT = 3
+encodedruleLen = 32
+distinct_rules = 10840
+
+No. of shadowed rules with PT = *, 0
+No. of rules handled by the special block = 1
+Number of static blocks = 10
+Number of rules left = 1629
+
+0,10,0,0        1616
+0,10,0,0        994
+10,0,0,0        732
+5,5,0,0 1058
+5,0,0,5 783
+4,6,0,0 999
+0,6,0,4 741
+3,7,0,0 749
+3,5,0,2 720
+4,3,0,3 818
+
+Number of dynamic blocks = 4
+------------------------------------------
+
+10Kfw1_norm
+number_of_rules = 9781,
+sizeSA = 2056, sizeDA = 7360, 
+sizeSP = 13, sizeDP = 43,
+sizePT = 5
+max_priority = 9
+
+total codelenSA = 13    total codelenDA = 15
+total codelenSP = 4     total codelenDP = 6
+total codelenPT = 3
+encodedruleLen = 41
+distinct_rules = 9735
+
+No. of shadowed rules with PT = *, 37
+No. of rules handled by the special block = 206
+Number of static blocks = 5
+Number of rules left = 835
+
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        1677
+0,10,0,0        1588
+10,0,0,0        1296
+
+Number of dynamic blocks = 13
+------------------------------------------
+
+10Kfw2_norm
+number_of_rules = 9659,
+sizeSA = 6587, sizeDA = 3512, 
+sizeSP = 9, sizeDP = 1,
+sizePT = 5
+max_priority = 5
+
+total codelenSA = 14    total codelenDA = 13
+total codelenSP = 4     total codelenDP = 0
+total codelenPT = 3
+encodedruleLen = 34
+distinct_rules = 9659
+
+No. of shadowed rules with PT = *, 70
+No. of rules handled by the special block = 8
+Number of static blocks = 5
+Number of rules left = 1085
+
+10,0,0,0        2048
+10,0,0,0        2048
+10,0,0,0        2048
+10,0,0,0        977
+0,10,0,0        1375
+
+Number of dynamic blocks = 5
+-----------------------------------------
+
+10Kfw3_norm
+number_of_rules = 10192,
+sizeSA = 152, sizeDA = 8063, 
+sizeSP = 9, sizeDP = 39,
+sizePT = 4
+max_priority = 10
+
+total codelenSA = 9     total codelenDA = 14
+total codelenSP = 4     total codelenDP = 6
+total codelenPT = 2
+encodedruleLen = 35
+distinct_rules = 10006
+
+No. of shadowed rules with PT = *, 104
+No. of rules handled by the special block = 275
+Number of static blocks = 4
+Number of rules left = 1565
+
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        1918
+
+Number of dynamic blocks = 11
+-----------------------------------------
+
+10Kfw4_norm
+number_of_rules = 9551,
+sizeSA = 4056, sizeDA = 7238, 
+sizeSP = 28, sizeDP = 49,
+sizePT = 9
+max_priority = 8
+
+total codelenSA = 13    total codelenDA = 15
+total codelenSP = 6     total codelenDP = 7
+total codelenPT = 4
+encodedruleLen = 45
+distinct_rules = 9551
+
+No. of shadowed rules with PT = *, 28
+No. of rules handled by the special block = 430
+Number of static blocks = 5
+Number of rules left = 471
+
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        974
+10,0,0,0        1504
+
+Number of dynamic blocks = 6
+-----------------------------------------
+
+10Kfw5_norm
+number_of_rules = 10085,
+sizeSA = 2157, sizeDA = 6458, 
+sizeSP = 11, sizeDP = 33,
+sizePT = 4
+max_priority = 10
+
+total codelenSA = 14    total codelenDA = 15
+total codelenSP = 4     total codelenDP = 6
+total codelenPT = 2
+encodedruleLen = 41
+distinct_rules = 9933
+
+No. of shadowed rules with PT = *, 71
+No. of rules handled by the special block = 377
+Number of static blocks = 5
+Number of rules left = 1594
+
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        1212
+0,10,0,0        1148
+10,0,0,0        1435
+
+Number of dynamic blocks = 10
+-----------------------------------------
+
+10Kipc1_norm
+number_of_rules = 10269,
+sizeSA = 135, sizeDA = 543, 
+sizeSP = 34, sizeDP = 55,
+sizePT = 7
+max_priority = 8
+
+total codelenSA = 9     total codelenDA = 12
+total codelenSP = 6     total codelenDP = 7
+total codelenPT = 3
+encodedruleLen = 37
+distinct_rules = 10179
+
+No. of shadowed rules with PT = *, 287
+No. of rules handled by the special block = 33
+Number of static blocks = 6
+Number of rules left = 3171
+
+5,5,0,0 1696
+5,5,0,0 1326
+5,5,0,0 1081
+5,5,0,0 867
+4,6,0,0 890
+6,4,0,0 828
+
+Number of dynamic blocks = 12
+------------------------------------------
+
+10Kipc2_norm
+number_of_rules = 10001,
+sizeSA = 4701, sizeDA = 8963, 
+sizeSP = 3, sizeDP = 3,
+sizePT = 4
+max_priority = 1
+
+total codelenSA = 14    total codelenDA = 14
+total codelenSP = 2     total codelenDP = 2
+total codelenPT = 2
+encodedruleLen = 34
+distinct_rules = 10001
+
+No. of shadowed rules with PT = *, 0
+No. of rules handled by the special block = 1
+Number of static blocks = 5
+Number of rules left = 304
+
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        2048
+0,10,0,0        2048
+10,0,0,0        1504
+
+Number of dynamic blocks = 2

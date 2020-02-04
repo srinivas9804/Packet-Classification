@@ -1,0 +1,82 @@
+10Kacl1_norm
+case1_rules = 0
+case2_rules = 210
+case3_rules = 0
+case4_rules = 0
+-----------------------------------------
+
+10Kacl2_norm
+case1_rules = 0
+case2_rules = 768
+case3_rules = 0
+case4_rules = 0
+-------------------------------------------
+
+10Kacl3_norm
+case1_rules = 0
+case2_rules = 49
+case3_rules = 0
+case4_rules = 0
+-------------------------------------------
+
+10Kacl4_norm
+case1_rules = 0
+case2_rules = 44
+case3_rules = 0
+case4_rules = 0
+-------------------------------------------
+
+10Kacl5_norm
+case1_rules = 0
+case2_rules = 0
+case3_rules = 0
+case4_rules = 0
+------------------------------------------
+
+10Kfw1_norm
+case1_rules = 0
+case2_rules = 79
+case3_rules = 2
+case4_rules = 0
+------------------------------------------
+
+10Kfw2_norm
+case1_rules = 0
+case2_rules = 74
+case3_rules = 0
+case4_rules = 0
+-----------------------------------------
+
+10Kfw3_norm
+case1_rules = 0
+case2_rules = 178
+case3_rules = 13
+case4_rules = 0
+-----------------------------------------
+
+10Kfw4_norm
+case1_rules = 0
+case2_rules = 39
+case3_rules = 0
+case4_rules = 0
+-----------------------------------------
+
+10Kfw5_norm
+case1_rules = 0
+case2_rules = 114
+case3_rules = 7
+case4_rules = 0
+-----------------------------------------
+
+10Kipc1_norm
+case1_rules = 0
+case2_rules = 313
+case3_rules = 0
+case4_rules = 0
+------------------------------------------
+
+10Kipc2_norm
+case1_rules = 0
+case2_rules = 0
+case3_rules = 0
+case4_rules = 0
